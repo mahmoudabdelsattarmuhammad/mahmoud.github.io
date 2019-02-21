@@ -8,7 +8,7 @@ date: 2019-02-10
 
 **Why this strategy is efficient:**
 
-- A good point to start with robust solution
+- A good point to start from a robust solution
 
 - It helps you to implement the requirements rapidly and gain a fast win with cost efficiency most of time
 
