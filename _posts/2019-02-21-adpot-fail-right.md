@@ -40,7 +40,7 @@ The story chronologically  as follows:
 
 - 2015: Slack evaluated nearly $3 billion
 
-## Learned Lesson
+## Conclusion
 
 Mentioned story shows the failure of Glitch was not an option as it was a consequence of the Flash platform decay but talking about options, Butterfield had three alternatives:
 
