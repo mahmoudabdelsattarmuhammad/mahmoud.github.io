@@ -4,7 +4,7 @@ title: "Never fail slow, try not to fail too fast but fail right"
 date: 2019-02-21
 ---
 
-In some fields like entrepreneurship and project management high ratio of failure is so normal, so sometimes failure is not an option, but the way of failing is
+In entrepreneurship high ratio of failure is so normal, so sometimes failure is not an option, but the way of failing is
 
 Failing slow always the worst choice ever, it is like bleeding to death but it sometimes happens because lack of experience or escalation of commitment bias
 
